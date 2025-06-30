@@ -1,0 +1,9 @@
+{
+	"name": "ninesr",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "023a1889-0eec-4aa8-bccb-d7f5209c824b",
+		"tenantId": "1eef9dbf-673c-45b3-a311-5937c32a5ba9"
+	}
+}
